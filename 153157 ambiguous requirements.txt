@@ -1,0 +1,15 @@
+1) misunderstanding abbreviations.
+example:
+	"e.g.", "i.e."
+//people misunderstand what the acronyms for the abbriviations
+
+2) vague statements.
+example:
+	"The software should be able to calculate."
+//The statements tells some calculation is to be performed, but does not tell what exactly is to be calculated.
+The statements is thus unclear of it's motives.
+
+3) using unnecessary English Jargon.
+example:
+	"The software should be intelligently-adpaptivly-ravishing."
+//Simple english language to deliver the requirements shuold be used.
